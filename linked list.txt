@@ -1,0 +1,41 @@
+list is ordered collection list.
+it is heterogenous.
+it supports negative indexing.
+list can store duplicate element.
+ 
+it supports silcing.
+>>>>SILCING<<<<
+syntax:
+[lower_bound:upper_bound]
+lower bound must include
+upper bound must exclude
+less tha upper bound 
+a=[19,38,3734]
+ 
+>>>> list functionality in python<<<<
+list is a collection and it has pre-defined functionality.
+These methods used to modify the list
+>Insert
+>delete
+>sort
+>append
+
+
+>>reading elements into list<<<
+
+type is function to check the class
+l1 =[]
+type(l1)
+<class,'list'>
+list functionality
+(mutable or immutable)
+list is mutable.
+hence we can modify the list after creation.
+list> append, insert,pop,remove,clear,delete, push
+ id check the address.
+whenever the address remain same after the modification it is not constant object.
+list elements either mutable or immutable.
+immutable:int, string
+in mutable object if the content are same then it point diffrent location. 
+and in immutable object if the content are same then it point same location.
+>>>nested list in pythoon<<
